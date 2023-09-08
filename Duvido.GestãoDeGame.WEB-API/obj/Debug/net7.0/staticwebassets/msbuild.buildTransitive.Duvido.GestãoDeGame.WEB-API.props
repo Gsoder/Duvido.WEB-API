@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Duvido.GestãoDeGame.WEB-API.props" />
+</Project>
